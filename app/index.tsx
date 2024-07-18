@@ -5,9 +5,9 @@ import { RootStackParamList } from './_layout';
 import AntDesign from '@expo/vector-icons/AntDesign';
 
 const messages = [
-  { id: '1', name: 'Shane Martinez', message: 'On my way home but...', time: '5 min', avatar: 'https://example.com/avatar1.png' },
-  { id: '2', name: 'Katie Keller', message: 'I\'m watching Friends...', time: '15 min', avatar: 'https://example.com/avatar2.png' },
-  { id: '3', name: 'Stephen Mann', message: 'I\'m working now...', time: '1 hour', avatar: 'https://example.com/avatar3.png' },
+  { id: '1', name: 'Mahinda Rajapaksha', message: 'On my way home but...', time: '5 min', avatar: '../assets/images/Mahinda-Rajapaksa.jpg' },
+  { id: '2', name: 'Anura Kumara', message: 'I\'m watching Friends...', time: '15 min', avatar: '../assets/images/anura-kumara.jpg' },
+  { id: '3', name: 'Ranil Wikramasinha', message: 'I\'m working now...', time: '1 hour', avatar: '../assets/images/ranil-wickremesinghe-2.jpg' },
 ];
 
 
